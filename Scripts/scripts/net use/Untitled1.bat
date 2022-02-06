@@ -1,0 +1,1 @@
+﻿(New-Object -ComObject WScript.Network).AddWindowsPrinterConnection("\\adb-ps-01\HSC715MFP")

@@ -1,0 +1,1 @@
+﻿Get-ADComputer  -Filter * -Properties OperatingSystem,LastLogonDate,Enabled | where {$_.OperatingSystem -match “Windows 7”} | select Name, OperatingSystem, LastLogonDate,Enabled | sort LastLogonDate -unique | Export-Csv c:\XPComputers.csv -Force

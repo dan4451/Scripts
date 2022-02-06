@@ -1,0 +1,1 @@
+﻿Connect-ExchangeOnline -UserPrincipalName dan-priv@ad.bridgeport.edu

@@ -1,0 +1,1 @@
+sudo launchctl bootout gui/$(id -u <username>)

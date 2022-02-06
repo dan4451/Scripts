@@ -1,0 +1,1 @@
+NET USE s: \\adb-cifs-01\dfs_shares\security /USER:ad\sec-badgeu NUTMEG /PERSISTENT:YES

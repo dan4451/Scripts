@@ -1,0 +1,1 @@
+﻿Get-WMIObject Win32_Printer | Where{$_.SystemName -eq '\\adb-ps-02'} | foreach{$_.delete()}

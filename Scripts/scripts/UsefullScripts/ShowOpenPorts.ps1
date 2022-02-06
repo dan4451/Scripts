@@ -1,0 +1,1 @@
+﻿netstat -an | select-string -pattern "listening"

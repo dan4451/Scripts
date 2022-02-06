@@ -1,0 +1,1 @@
+net use s:\\ad\ubdfs\security

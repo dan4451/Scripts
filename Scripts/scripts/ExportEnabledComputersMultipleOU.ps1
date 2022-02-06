@@ -1,0 +1,7 @@
+﻿get-adcomputer -SearchBase "OU=ENG-LAB-110,OU=ENG,OU=Org,OU=UBROOT,DC=ad,DC=bridgeport,DC=edu" -Filter {(Enabled -eq $True)} | Select-Object -Property Name | Export-Csv -path c:\ForBill\ENG-LAB-110.csv -NoTypeInformation
+get-adcomputer -SearchBase "OU=ENG-LAB-111,OU=ENG,OU=Org,OU=UBROOT,DC=ad,DC=bridgeport,DC=edu" -Filter {(Enabled -eq $True)} | Select-Object -Property Name | Export-Csv -path c:\ForBill\ENG-LAB-111.csv -NoTypeInformation
+get-adcomputer -SearchBase "OU=ENG-LAB-112,OU=ENG,OU=Org,OU=UBROOT,DC=ad,DC=bridgeport,DC=edu" -Filter {(Enabled -eq $True)} | Select-Object -Property Name | Export-Csv -path c:\ForBill\ENG-LAB-112.csv -NoTypeInformation
+get-adcomputer -SearchBase "OU=ENG-LAB-113,OU=ENG,OU=Org,OU=UBROOT,DC=ad,DC=bridgeport,DC=edu" -Filter {(Enabled -eq $True)} | Select-Object -Property Name | Export-Csv -path c:\ForBill\ENG-LAB-113.csv -NoTypeInformation
+get-adcomputer -SearchBase "OU=ENG-LAB-162,OU=ENG,OU=Org,OU=UBROOT,DC=ad,DC=bridgeport,DC=edu" -Filter {(Enabled -eq $True)} | Select-Object -Property Name | Export-Csv -path c:\ForBill\ENG-LAB-162.csv -NoTypeInformation
+get-adcomputer -SearchBase "OU=ENG-LAB-163,OU=ENG,OU=Org,OU=UBROOT,DC=ad,DC=bridgeport,DC=edu" -Filter {(Enabled -eq $True)} | Select-Object -Property Name | Export-Csv -path c:\ForBill\ENG-LAB-163.csv -NoTypeInformation
+get-adcomputer -SearchBase "OU=ENG-LAB-164,OU=ENG,OU=Org,OU=UBROOT,DC=ad,DC=bridgeport,DC=edu" -Filter {(Enabled -eq $True)} | Select-Object -Property Name | Export-Csv -path c:\ForBill\ENG-LAB-164.csv -NoTypeInformation

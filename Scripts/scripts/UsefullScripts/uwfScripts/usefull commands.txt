@@ -1,0 +1,3 @@
+C:\WINDOWS> Invoke-Command -ComputerName cis-canderso -ScriptBlock{shutdown /r /t 0}
+
+C:\WINDOWS> icm -ComputerName cis-canderso -ScriptBlock{Get-ComputerInfo}

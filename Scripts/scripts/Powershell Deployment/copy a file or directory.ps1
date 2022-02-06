@@ -1,0 +1,1 @@
+﻿Start-Process PowerShell.exe -ArgumentList " copy '\\ad\ubdfs\ITS\DeploymentShare\Software\Nedgraphics\V19 Gold\hasplm.ini' 'c:\Program Files (x86)\Common Files\Aladdin Shared\HASP'" -Wait -Verb RunAs

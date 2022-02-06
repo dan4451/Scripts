@@ -1,0 +1,1 @@
+﻿Start-Process PowerShell.exe -windowstyle hidden {.\run.vbs}

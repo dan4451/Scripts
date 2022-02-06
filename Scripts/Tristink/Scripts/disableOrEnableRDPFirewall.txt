@@ -1,0 +1,4 @@
+10.2.90.109 SD-LT-FENE
+Enable-NetFirewallRule -DisplayGroup "Remote Desktop"
+netsh advfirewall firewall add rule name="allow RemoteDesktop" dir=in protocol=TCP localport=3389 action=allow
+Test-NetConnection 10.2.230.1 -CommonTCPPort rdp

@@ -1,0 +1,875 @@
+
+IdentifyingNumber : {FAF57B00-22E3-4DEC-88FE-C35A9716C1C3}
+Name              : After Effects CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : After Effects CC 2015
+
+IdentifyingNumber : {DE4EA720-97CD-406B-BB93-3DC86159CBAD}
+Name              : Flash Builder Premium
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Flash Builder Premium
+
+IdentifyingNumber : {7FFAC030-BE5A-4409-8976-3EE559A4779F}
+Name              : Fireworks CS6
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Fireworks CS6
+
+IdentifyingNumber : {0713F851-3790-4319-86D9-C9C395C61D0B}
+Name              : Photoshop CC 19.0.1
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Photoshop CC 19.0.1
+
+IdentifyingNumber : {5197E861-B03D-4663-BC6D-903567A3D4D8}
+Name              : Fireworks CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Fireworks CC 2014
+
+IdentifyingNumber : {EA702371-33F4-42A0-8861-CA11132B779D}
+Name              : Edge Animate CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Edge Animate CC 2015
+
+IdentifyingNumber : {BD6F5371-DAC1-30F0-9DDE-CAC6791E28C3}
+Name              : Microsoft .NET Framework 4.6.1
+Vendor            : Microsoft Corporation
+Version           : 4.6.01055
+Caption           : Microsoft .NET Framework 4.6.1
+
+IdentifyingNumber : {7B50D081-E670-3B43-A460-0E2CDB5CE984}
+Name              : Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.23918
+Vendor            : Microsoft Corporation
+Version           : 14.0.23918
+Caption           : Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.23918
+
+IdentifyingNumber : {1D8E6291-B0D5-35EC-8441-6616F567A0F7}
+Name              : Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Vendor            : Microsoft Corporation
+Version           : 10.0.40219
+Caption           : Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+
+IdentifyingNumber : {8F1881A1-8878-428B-83D4-A8AB71D50232}
+Name              : Extension Manager CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Extension Manager CC 2014
+
+IdentifyingNumber : {ad8a2fa1-06e7-4b0d-927d-6e54b3d31028}
+Name              : Microsoft Visual C++ 2005 Redistributable (x64)
+Vendor            : Microsoft Corporation
+Version           : 8.0.61000
+Caption           : Microsoft Visual C++ 2005 Redistributable (x64)
+
+IdentifyingNumber : {7D2F23D1-80B8-45B7-9CF9-9B4F002B4D22}
+Name              : Media Encoder CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Media Encoder CC 2015
+
+IdentifyingNumber : {F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}
+Name              : Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Vendor            : Microsoft Corporation
+Version           : 10.0.40219
+Caption           : Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+
+IdentifyingNumber : {C267E7D1-4569-4386-AB2F-BBE40B96B9D1}
+Name              : Education Software 2016 April
+Vendor            : SMART Technologies ULC
+Version           : 16.0.648.0
+Caption           : Education Software 2016 April
+
+IdentifyingNumber : {BE35DDF1-F356-416B-9A75-0B6AADCC7A0A}
+Name              : Illustrator CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Illustrator CC 2015
+
+IdentifyingNumber : {C6824E02-0D74-9191-A2BA-B18FB9C4AAAA}
+Name              : Adobe® Content Viewer
+Vendor            : Adobe Systems, Incorporated
+Version           : 3.4.3
+Caption           : Adobe® Content Viewer
+
+IdentifyingNumber : {13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}
+Name              : Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+Vendor            : Microsoft Corporation
+Version           : 12.0.21005
+Caption           : Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+
+IdentifyingNumber : {3898EF12-76AA-4116-BFCE-EA063420B9E2}
+Name              : Adobe Flash Player 23 ActiveX
+Vendor            : Adobe Systems Incorporated
+Version           : 23.0.0.162
+Caption           : Adobe Flash Player 23 ActiveX
+
+IdentifyingNumber : {F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}
+Name              : Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+Vendor            : Microsoft Corporation
+Version           : 12.0.21005
+Caption           : Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+
+IdentifyingNumber : {14C41842-168E-4D7C-A13C-17A9990A4AEB}
+Name              : Photoshop CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Photoshop CC 2015
+
+IdentifyingNumber : {3C52AE82-BF34-4FFC-9AFA-ECEA42359A7A}
+Name              : Gaming SDK CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Gaming SDK CC 2014
+
+IdentifyingNumber : {E752F5A2-278D-482F-9145-9E16799E6618}
+Name              : InCopy CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : InCopy CC 2015
+
+IdentifyingNumber : {42007AB2-E55C-45BB-A2CD-EEBDE7E29D62}
+Name              : Flash Professional and Mobile Device Packaging CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Flash Professional and Mobile Device Packaging CC 2014
+
+IdentifyingNumber : {9F1B7DC2-D721-4EC6-9DF3-FD0966227E66}
+Name              : Education Software 2013 December Update
+Vendor            : SMART Technologies ULC
+Version           : 11.4.520.1
+Caption           : Education Software 2013 December Update
+
+IdentifyingNumber : {E7865423-CBDF-43C4-976B-B8A7EF702DB9}
+Name              : After Effects CC 15.0.0
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : After Effects CC 15.0.0
+
+IdentifyingNumber : {9317DA23-4E74-4126-8519-617BF728D4AA}
+Name              : Animate CC and Mobile Device Packaging 18.0.1
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Animate CC and Mobile Device Packaging 18.0.1
+
+IdentifyingNumber : {FB813553-C91B-4D89-83BA-0556688055DD}
+Name              : Dreamweaver CC 18.0
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Dreamweaver CC 18.0
+
+IdentifyingNumber : {E0C5AF53-D2D5-4E78-A18D-C1A5820D6ED5}
+Name              : Audition CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Audition CC 2015
+
+IdentifyingNumber : {94EE3B83-08D3-4055-945B-E743ED714C7F}
+Name              : Flash Builder Premium CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Flash Builder Premium CC 2014
+
+IdentifyingNumber : {5854B3A3-466B-41A2-9B8A-F1FFDBF6FB63}
+Name              : Premier Pro CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Premier Pro CC 2015
+
+IdentifyingNumber : {6E9C2DB3-8DAE-4B8C-B8AE-5A104E95416D}
+Name              : Acrobat DC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Acrobat DC 2015
+
+IdentifyingNumber : {E99D12F3-D8F4-420F-955B-9E2B8C9757D8}
+Name              : Scout CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Scout CC 2014
+
+IdentifyingNumber : {691CB134-1053-442B-8814-148F44987DD3}
+Name              : Illustrator CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Illustrator CC 2014
+
+IdentifyingNumber : {63D98364-C376-4DAD-981C-B0DDA4299F99}
+Name              : Premiere Pro CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Premiere Pro CC 2014
+
+IdentifyingNumber : {B4E14374-780F-48AB-8884-C7BBC02DB342}
+Name              : WebEx Recorder and Player
+Vendor            : Cisco WebEx LLC
+Version           : 29.9.0.10115
+Caption           : WebEx Recorder and Player
+
+IdentifyingNumber : {CF87B784-4EE5-46F0-9C7A-0BDBA895334B}
+Name              : Edge Animate CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Edge Animate CC 2014
+
+IdentifyingNumber : {92db00b4-c4ee-4893-bc4e-8be6548b2742}
+Name              : HP SoftPaq Download Manager
+Vendor            : HP
+Version           : 4.3.4.0
+Caption           : HP SoftPaq Download Manager
+
+IdentifyingNumber : {9495AEB4-AB97-39DE-8C42-806EEF75ECA7}
+Name              : Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+Vendor            : Microsoft Corporation
+Version           : 10.0.50908
+Caption           : Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+
+IdentifyingNumber : {826313C4-FCFB-4197-9163-1C94F23DA672}
+Name              : Audition CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Audition CC 2014
+
+IdentifyingNumber : {B5F916C4-638F-4FFE-B5D7-D24504224543}
+Name              : Adobe Flash Player 18 ActiveX
+Vendor            : 
+Version           : 
+Caption           : Adobe Flash Player 18 ActiveX
+
+IdentifyingNumber : {26A24AE4-039D-4CA4-87B4-2F83218066F0}
+Name              : Java 8 Update 66
+Vendor            : Oracle Corporation
+Version           : 8.0.660.18
+Caption           : Java 8 Update 66
+
+IdentifyingNumber : {26A24AE4-039D-4CA4-87B4-2F83218077F0}
+Name              : Java 8 Update 77
+Vendor            : Oracle Corporation
+Version           : 8.0.770.3
+Caption           : Java 8 Update 77
+
+IdentifyingNumber : {26A24AE4-039D-4CA4-87B4-2F86418066F0}
+Name              : Java 8 Update 66 (64-bit)
+Vendor            : Oracle Corporation
+Version           : 8.0.660.18
+Caption           : Java 8 Update 66 (64-bit)
+
+IdentifyingNumber : {26A24AE4-039D-4CA4-87B4-2F86418077F0}
+Name              : Java 8 Update 77 (64-bit)
+Vendor            : Oracle Corporation
+Version           : 8.0.770.3
+Caption           : Java 8 Update 77 (64-bit)
+
+IdentifyingNumber : {215559F4-8BA5-4E7C-8E09-356BA59A09E8}
+Name              : InDesign CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : InDesign CC 2014
+
+IdentifyingNumber : {0357B625-4AAE-45BA-9E02-BDD990F932E3}
+Name              : Muse CC 2018.0
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Muse CC 2018.0
+
+IdentifyingNumber : {4DCCE135-473B-4908-805F-522F721B5B2D}
+Name              : InCopy CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : InCopy CC 2014
+
+IdentifyingNumber : {0DB8C585-FBB9-4047-92D2-71C499066DFB}
+Name              : Audition CC 11.0.0
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Audition CC 11.0.0
+
+IdentifyingNumber : {7D7530A5-2817-424A-9B5D-6E8B95696B75}
+Name              : Lightroom CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Lightroom CC 2015
+
+IdentifyingNumber : {1C1655A5-8B59-421E-ABCC-9182956510DC}
+Name              : Adobe Flash Player 18 NPAPI
+Vendor            : 
+Version           : 
+Caption           : Adobe Flash Player 18 NPAPI
+
+IdentifyingNumber : {B5FC62F5-A367-37A5-9FD2-A6E137C0096F}
+Name              : Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23918
+Vendor            : Microsoft Corporation
+Version           : 14.0.23918
+Caption           : Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23918
+
+IdentifyingNumber : {79850516-92EE-49F2-9A42-139F7083DE05}
+Name              : InDesign CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : InDesign CC 2015
+
+IdentifyingNumber : {D2CE9926-4712-442C-8A3E-12013ACFC1DF}
+Name              : Adobe Muse CC 2014
+Vendor            : Adobe Systems, Incorporated
+Version           : 2014.2.0.569
+Caption           : Adobe Muse CC 2014
+
+IdentifyingNumber : {929FBD26-9020-399B-9A7A-751D61F0B942}
+Name              : Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+Vendor            : Microsoft Corporation
+Version           : 12.0.21005
+Caption           : Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+
+IdentifyingNumber : {AD6E9D76-C6AA-4F6E-8DAE-4EEE78B78743}
+Name              : Adobe Flash Player 18 ActiveX
+Vendor            : 
+Version           : 
+Caption           : Adobe Flash Player 18 ActiveX
+
+IdentifyingNumber : {CE102F76-8858-4CA8-B500-030C9A735C8A}
+Name              : Adobe Flash Player 23 NPAPI
+Vendor            : Adobe Systems Incorporated
+Version           : 23.0.0.162
+Caption           : Adobe Flash Player 23 NPAPI
+
+IdentifyingNumber : {AC76BA86-1033-FFFF-7760-000000000006}
+Name              : Adobe Acrobat XI Pro
+Vendor            : Adobe Systems
+Version           : 11.0.12
+Caption           : Adobe Acrobat XI Pro
+
+IdentifyingNumber : {AC76BA86-1033-FFFF-7760-0C0F074E4100}
+Name              : Adobe Acrobat DC
+Vendor            : Adobe Systems Incorporated
+Version           : 18.011.20038
+Caption           : Adobe Acrobat DC
+
+IdentifyingNumber : {AC76BA86-0804-1033-1959-001824265200}
+Name              : Adobe Refresh Manager
+Vendor            : Adobe Systems Incorporated
+Version           : 1.8.0
+Caption           : Adobe Refresh Manager
+
+IdentifyingNumber : {B2239F96-D221-45C4-81C7-386E9DB84DEB}
+Name              : Adobe Flash Player 18 NPAPI
+Vendor            : Adobe Systems Incorporated
+Version           : 18.0.0.343
+Caption           : Adobe Flash Player 18 NPAPI
+
+IdentifyingNumber : {883E56E6-DB79-4713-88D3-5C6C9FA7FE91}
+Name              : Acrobat 11
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Acrobat 11
+
+IdentifyingNumber : {A749D8E6-B613-3BE3-8F5F-045C84EBA29B}
+Name              : Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+Vendor            : Microsoft Corporation
+Version           : 12.0.21005
+Caption           : Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+
+IdentifyingNumber : {47F91537-12BD-4B30-8726-5A033FE61CDA}
+Name              : SMART Notebook
+Vendor            : SMART Technologies ULC
+Version           : 16.0.1086.0
+Caption           : SMART Notebook
+
+IdentifyingNumber : {210F0147-CF98-4746-8D24-E9B798FF5068}
+Name              : SpeedGrade CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : SpeedGrade CC 2014
+
+IdentifyingNumber : {9461E5A7-4CF0-4781-B421-5A61B4F688A0}
+Name              : Extension Manager CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Extension Manager CC 2015
+
+IdentifyingNumber : {37B8F9C7-03FB-3253-8781-2517C99D7C00}
+Name              : Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+Vendor            : Microsoft Corporation
+Version           : 11.0.61030
+Caption           : Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+
+IdentifyingNumber : {696243E7-E4BB-4696-ACF0-C6D2FC012136}
+Name              : SMART Product Drivers
+Vendor            : SMART Technologies ULC
+Version           : 12.5.768.0
+Caption           : SMART Product Drivers
+
+IdentifyingNumber : {15FC1918-0890-482C-8628-CE9415D11455}
+Name              : Edge Reflow CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Edge Reflow CC 2015
+
+IdentifyingNumber : {885CC138-A138-44E4-9592-190507F237C4}
+Name              : Edge Code CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Edge Code CC 2014
+
+IdentifyingNumber : {E23FC538-5890-43E8-932D-FC1DD8B1655B}
+Name              : Adobe Edge Reflow CC Preview
+Vendor            : Adobe Systems Incorporated
+Version           : 0.47.17127
+Caption           : Adobe Edge Reflow CC Preview
+
+IdentifyingNumber : {F6A11738-3EE4-4573-AEA5-6CD5D491C167}
+Name              : HP Support Solutions Framework
+Vendor            : Hewlett-Packard Company
+Version           : 12.0.30.81
+Caption           : HP Support Solutions Framework
+
+IdentifyingNumber : {F4380B38-D62F-4D58-AA1D-C420C4E86049}
+Name              : SMART Lesson Activity Toolkit
+Vendor            : SMART Technologies ULC
+Version           : 1.0.19.0
+Caption           : SMART Lesson Activity Toolkit
+
+IdentifyingNumber : {071c9b48-7c32-4621-a0ac-3f809523288f}
+Name              : Microsoft Visual C++ 2005 Redistributable (x64)
+Vendor            : Microsoft Corporation
+Version           : 8.0.56336
+Caption           : Microsoft Visual C++ 2005 Redistributable (x64)
+
+IdentifyingNumber : {A5AEF478-1170-4335-86B8-561328B193EC}
+Name              : SMART Ink
+Vendor            : SMART Technologies ULC
+Version           : 4.0.890.0
+Caption           : SMART Ink
+
+IdentifyingNumber : {4B4910C8-4D59-4AC2-9E72-15B9D91CEBB2}
+Name              : Adobe Flash Player 18 ActiveX
+Vendor            : Adobe Systems Incorporated
+Version           : 18.0.0.343
+Caption           : Adobe Flash Player 18 ActiveX
+
+IdentifyingNumber : {F10E0DC8-E945-44A5-A3EB-EBA7AE30AB24}
+Name              : Extendscript Toolkit CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Extendscript Toolkit CC 2015
+
+IdentifyingNumber : {6D6789E8-FE73-4DB4-A6F5-505B5F261C87}
+Name              : Acrobat DC 2015.10
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Acrobat DC 2015.10
+
+IdentifyingNumber : {CAE13209-A680-4529-A72C-FCD3DFF8ABC0}
+Name              : Media Encoder CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Media Encoder CC 2014
+
+IdentifyingNumber : {5AB8B509-4D5A-47DA-A1D2-CDDC2A7D27E4}
+Name              : Configuration Manager Client
+Vendor            : Microsoft Corporation
+Version           : 5.00.8577.1000
+Caption           : Configuration Manager Client
+
+IdentifyingNumber : {B9082609-19CD-3D8D-B53C-E1F0D3F409E3}
+Name              : Google Chrome
+Vendor            : Google, Inc.
+Version           : 65.0.3325.181
+Caption           : Google Chrome
+
+IdentifyingNumber : {DFFEB619-5455-3697-B145-243D936DB95B}
+Name              : Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.23918
+Vendor            : Microsoft Corporation
+Version           : 14.0.23918
+Caption           : Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.23918
+
+IdentifyingNumber : {A92DAB39-4E2C-4304-9AB6-BC44E68B55E2}
+Name              : Google Update Helper
+Vendor            : Google Inc.
+Version           : 1.3.24.7
+Caption           : Google Update Helper
+
+IdentifyingNumber : {BD9CFD69-EB91-354E-9C98-D439E6091932}
+Name              : Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23918
+Vendor            : Microsoft Corporation
+Version           : 14.0.23918
+Caption           : Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23918
+
+IdentifyingNumber : {1D3B5879-420E-4D00-96B1-A94BA1D09782}
+Name              : Acrobat Pro DC 18.0
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Acrobat Pro DC 18.0
+
+IdentifyingNumber : {A12F20A9-24EC-4F4D-B1D6-F5030DA00909}
+Name              : Character Animator CC 1.1.0
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Character Animator CC 1.1.0
+
+IdentifyingNumber : {AFBCA1B9-496C-4AE6-98AE-3EA1CFF65C54}
+Name              : Sophos AutoUpdate
+Vendor            : Sophos Limited
+Version           : 5.10.139
+Caption           : Sophos AutoUpdate
+
+IdentifyingNumber : {0EFDF2F9-836D-4EB7-A32D-038BD3F1FB2A}
+Name              : Security Update for CAPICOM (KB931906)
+Vendor            : Microsoft Corporation
+Version           : 2.1.0.2
+Caption           : Security Update for CAPICOM (KB931906)
+
+IdentifyingNumber : {452E28F9-4542-45BB-8758-467781E34959}
+Name              : Prelude CC 7.0.0
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Prelude CC 7.0.0
+
+IdentifyingNumber : {60EC980A-BDA2-4CB6-A427-B07A5498B4CA}
+Name              : Google Update Helper
+Vendor            : Google Inc.
+Version           : 1.3.33.7
+Caption           : Google Update Helper
+
+IdentifyingNumber : {CE4C471A-E100-4A8E-BCB5-805580ECA7A9}
+Name              : Exchange Panel CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Exchange Panel CC 2014
+
+IdentifyingNumber : {2A93723A-7F84-417D-BEFA-E5449BABAEA7}
+Name              : Speedgrade CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Speedgrade CC 2015
+
+IdentifyingNumber : {351556FA-F071-4A3C-8A21-818830C9DD46}
+Name              : SMART Gallery Essentials
+Vendor            : SMART Technologies ULC
+Version           : 1.0.19.0
+Caption           : SMART Gallery Essentials
+
+IdentifyingNumber : {E6694AFA-DAF9-4A86-8D6A-AD80615F304C}
+Name              : Muse CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Muse CC 2015
+
+IdentifyingNumber : {E29AC00B-7E6C-4770-A3FE-C3EE56C837C7}
+Name              : Adobe Flash Player 18 NPAPI
+Vendor            : 
+Version           : 
+Caption           : Adobe Flash Player 18 NPAPI
+
+IdentifyingNumber : {1845470B-EB14-4ABC-835B-E36C693DC07D}
+Name              : Skype™ 7.4
+Vendor            : Skype Technologies S.A.
+Version           : 7.4.102
+Caption           : Skype™ 7.4
+
+IdentifyingNumber : {7299052b-02a4-4627-81f2-1818da5d550d}
+Name              : Microsoft Visual C++ 2005 Redistributable
+Vendor            : Microsoft Corporation
+Version           : 8.0.56336
+Caption           : Microsoft Visual C++ 2005 Redistributable
+
+IdentifyingNumber : {21706D5B-A09C-42F1-95B5-CBDFE20F9852}
+Name              : Network Recording Player
+Vendor            : Cisco WebEx LLC
+Version           : 29.10.1.10115
+Caption           : Network Recording Player
+
+IdentifyingNumber : {A8C5527B-1602-4CA7-9729-5193E623151D}
+Name              : Prelude CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Prelude CC 2015
+
+IdentifyingNumber : {9370EDFB-D046-4EC1-8D9D-5B1EDDCF555A}
+Name              : Bridge CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Bridge CC 2014
+
+IdentifyingNumber : {2033D10C-8B25-6EED-97C0-708693677BA6}
+Name              : Adobe Edge Code CC
+Vendor            : Adobe Systems Incorporated
+Version           : 0.98
+Caption           : Adobe Edge Code CC
+
+IdentifyingNumber : {B175520C-86A2-35A7-8619-86DC379688B9}
+Name              : Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Vendor            : Microsoft Corporation
+Version           : 11.0.61030
+Caption           : Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+
+IdentifyingNumber : {6153EC2C-C918-428B-8F09-CF616AA6AAA1}
+Name              : Dreamweaver CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Dreamweaver CC 2014
+
+IdentifyingNumber : {CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}
+Name              : Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Vendor            : Microsoft Corporation
+Version           : 11.0.61030
+Caption           : Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+
+IdentifyingNumber : {2316BC3C-61AD-4289-8702-9DF0DFCA08ED}
+Name              : Adobe Gaming SDK 1.4
+Vendor            : Adobe Systems Incorporated
+Version           : 1.4
+Caption           : Adobe Gaming SDK 1.4
+
+IdentifyingNumber : {0328074C-F419-4BF8-ACDB-BB5394EB9E99}
+Name              : Bridge CC 8.0.1
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Bridge CC 8.0.1
+
+IdentifyingNumber : {E4235A4C-8082-4A68-923E-B037F8529DE7}
+Name              : HP Hotkey Support
+Vendor            : HP
+Version           : 6.2.29.1
+Caption           : HP Hotkey Support
+
+IdentifyingNumber : {8571995C-CAFD-4615-9B0E-5E6918487458}
+Name              : Prelude CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Prelude CC 2014
+
+IdentifyingNumber : {A4488E5C-1022-432A-8066-72E1C4023310}
+Name              : Adobe Flash Player 18 ActiveX
+Vendor            : 
+Version           : 
+Caption           : Adobe Flash Player 18 ActiveX
+
+IdentifyingNumber : {13DA9C7C-EBFB-40D0-94A1-55B42883DF21}
+Name              : 64 Bit HP CIO Components Installer
+Vendor            : HP Inc.
+Version           : 21.2.1
+Caption           : 64 Bit HP CIO Components Installer
+
+IdentifyingNumber : {014325DC-B8B1-4154-ACCE-CFE6D1889FFC}
+Name              : Extendscript Toolkit CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Extendscript Toolkit CC 2014
+
+IdentifyingNumber : {AD7C810D-40B3-4C8D-A777-39EE0004DA6E}
+Name              : Microsoft Identity Manager Add-ins and Extensions
+Vendor            : Microsoft Corporation
+Version           : 4.4.1302.0
+Caption           : Microsoft Identity Manager Add-ins and Extensions
+
+IdentifyingNumber : {B895D50D-513E-4DF7-A24F-906E54A0DD33}
+Name              : InDesign 13.0.1
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : InDesign 13.0.1
+
+IdentifyingNumber : {3B528B0D-D2D9-4B00-9BD3-235DDCDC696F}
+Name              : Gaming SDK 1.4
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Gaming SDK 1.4
+
+IdentifyingNumber : {9A25302D-30C0-39D9-BD6F-21E6EC160475}
+Name              : Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+Vendor            : Microsoft Corporation
+Version           : 9.0.30729
+Caption           : Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+
+IdentifyingNumber : {C996B92D-6E8E-41D1-A5DF-FA79FB446ED7}
+Name              : Bridge CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Bridge CC 2015
+
+IdentifyingNumber : {52B2164D-D4B7-4746-B94F-566A43FB7876}
+Name              : Edge Code CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Edge Code CC 2015
+
+IdentifyingNumber : {FED1005D-CBC8-45D5-A288-FFC7BB304121}
+Name              : Sophos Remote Management System
+Vendor            : Sophos Limited
+Version           : 4.1.1
+Caption           : Sophos Remote Management System
+
+IdentifyingNumber : {B4A0B76D-EAE6-4717-AEB3-58C1BCD7B9E8}
+Name              : HP Client Security Manager
+Vendor            : HP Inc.
+Version           : 9.0.0.2116
+Caption           : HP Client Security Manager
+
+IdentifyingNumber : {89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}
+Name              : Microsoft Silverlight
+Vendor            : Microsoft Corporation
+Version           : 5.1.50907.0
+Caption           : Microsoft Silverlight
+
+IdentifyingNumber : {1093B57D-A613-47F3-90CF-0FD5C5DCFFE6}
+Name              : Sophos System Protection
+Vendor            : Sophos Limited
+Version           : 1.3.1
+Caption           : Sophos System Protection
+
+IdentifyingNumber : {BD95A8CD-1D9F-35AD-981A-3E7925026EBB}
+Name              : Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+Vendor            : Microsoft Corporation
+Version           : 11.0.61030
+Caption           : Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+
+IdentifyingNumber : {2234FDCD-5679-4018-ABFB-88C523017A3B}
+Name              : Muse CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Muse CC 2014
+
+IdentifyingNumber : {C179E0FD-3275-462F-8F1A-71C6CB02B56C}
+Name              : Media Encoder CC 12.0.0
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Media Encoder CC 12.0.0
+
+IdentifyingNumber : {7B77622E-DE90-48EA-B2C7-227B1DE58A01}
+Name              : Adobe AIR
+Vendor            : Adobe Systems Incorporated
+Version           : 16.0.0.273
+Caption           : Adobe AIR
+
+IdentifyingNumber : {28CC4C4E-73C5-49C7-B8BA-016E767F07D0}
+Name              : Scout CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Scout CC 2015
+
+IdentifyingNumber : {87C03E4E-C2BC-4034-A3A0-737DC9C284C3}
+Name              : InCopy CC 13.0.1
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : InCopy CC 13.0.1
+
+IdentifyingNumber : {23E4E25E-E963-4C62-A18A-49C73AA3F963}
+Name              : Sophos Anti-Virus
+Vendor            : Sophos Limited
+Version           : 10.7.6.128
+Caption           : Sophos Anti-Virus
+
+IdentifyingNumber : {6587559E-D025-41CD-9BDD-081B5DAAA739}
+Name              : Dreamweaver CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Dreamweaver CC 2015
+
+IdentifyingNumber : {DFD9989E-A8B3-4FBF-AD46-94CB789505D7}
+Name              : Illustrator CC 22.0.11
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Illustrator CC 22.0.11
+
+IdentifyingNumber : {8656EDBE-7C0A-4945-8D49-493FDBE7B5BD}
+Name              : Adobe Flash Player 18 NPAPI
+Vendor            : 
+Version           : 
+Caption           : Adobe Flash Player 18 NPAPI
+
+IdentifyingNumber : {23BDDBCE-9811-4F9E-97EB-9985B1E2FBAB}
+Name              : Premiere Pro CC 12.0.0
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Premiere Pro CC 12.0.0
+
+IdentifyingNumber : {CEE3F4DE-0FE2-4D58-8C34-1DDE184E939A}
+Name              : Mozilla Firefox (en-US)
+Vendor            : FrontMotion
+Version           : 52.5.2.0
+Caption           : Mozilla Firefox (en-US)
+
+IdentifyingNumber : {A5A8B7DE-33B9-4E7D-A0FD-F147C3A56391}
+Name              : Photoshop CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Photoshop CC 2014
+
+IdentifyingNumber : {BA573BFE-83B4-11E3-93D2-D231FEB1DC81}
+Name              : Adobe Scout CC
+Vendor            : Adobe Systems Incorporated
+Version           : 1.1.3.354121
+Caption           : Adobe Scout CC
+
+IdentifyingNumber : {8220EEFE-38CD-377E-8595-13398D740ACE}
+Name              : Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+Vendor            : Microsoft Corporation
+Version           : 9.0.30729
+Caption           : Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+
+IdentifyingNumber : {5565E71F-091B-42B8-8514-7E8944860BFD}
+Name              : Sophos Patch Agent
+Vendor            : Sophos Limited
+Version           : 1.0.311.1
+Caption           : Sophos Patch Agent
+
+IdentifyingNumber : {87FB4D1F-413A-4F3F-AAD9-0B130A02BA61}
+Name              : Adobe Flash Player 18 ActiveX
+Vendor            : 
+Version           : 
+Caption           : Adobe Flash Player 18 ActiveX
+
+IdentifyingNumber : {AC074F3F-794F-40FA-967E-5E14BEDD61F5}
+Name              : After Effects CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : After Effects CC 2014
+
+IdentifyingNumber : {6549B04F-E826-4E0A-8C3F-388540F08541}
+Name              : Microsoft Policy Platform
+Vendor            : Microsoft Corporation
+Version           : 68.1.1010.0
+Caption           : Microsoft Policy Platform
+
+IdentifyingNumber : {66967E5F-43E8-4402-87A4-04685EE5C2CB}
+Name              : Sophos Network Threat Protection
+Vendor            : Sophos Limited
+Version           : 1.2.2.50
+Caption           : Sophos Network Threat Protection
+
+IdentifyingNumber : {8843A36F-6E6B-4906-ACC0-C46FFFE8B0F7}
+Name              : Edge Reflow CC 2014
+Vendor            : Adobe Systems Incorporated
+Version           : 1.2.0000
+Caption           : Edge Reflow CC 2014
+
+IdentifyingNumber : {26A95DBF-A866-4838-A8C9-FA219FCBD22E}
+Name              : SMART Common Files
+Vendor            : SMART Technologies ULC
+Version           : 11.5.159.0
+Caption           : SMART Common Files
+
+IdentifyingNumber : {CD3878CF-9F78-45FB-9EF3-10FFAE52E2DD}
+Name              : Lightroom Classic 7.1
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0000
+Caption           : Lightroom Classic 7.1
+
+IdentifyingNumber : {554BB9CF-1626-4DB0-93C7-8B3B1AC5BB28}
+Name              : Lightroom CC 2015
+Vendor            : Adobe Systems Incorporated
+Version           : 1.0.0
+Caption           : Lightroom CC 2015
+
+IdentifyingNumber : {F5DC7FFF-49E9-45F3-B42E-36FE963573DB}
+Name              : Cisco AnyConnect Secure Mobility Client
+Vendor            : Cisco Systems, Inc.
+Version           : 4.5.03040
+Caption           : Cisco AnyConnect Secure Mobility Client
+
+
+
+
+_________________________________________________________________________________
