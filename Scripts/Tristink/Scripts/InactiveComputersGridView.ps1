@@ -1,0 +1,1 @@
+﻿Search-ADAccount -ComputersOnly -AccountInactive -TimeSpan 60 | Out-GridView -OutputMode Multiple
