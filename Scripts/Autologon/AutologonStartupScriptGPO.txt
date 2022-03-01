@@ -1,0 +1,4 @@
+Script Name:
+%windir%\System32\WindowsPowerShell\v1.0\powershell.exe
+Script Parameters:
+-Noninteractive -ExecutionPolicy Bypass –Noprofile -file AutologonFacilitiesContractors.ps1

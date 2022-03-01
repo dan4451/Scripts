@@ -1,0 +1,1 @@
+C:\Windows\Temp\Autologon.exe /accepteula AL.EHSACT01 trilinksd.local 3h54ct01!
