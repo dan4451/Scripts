@@ -1,0 +1,1 @@
+﻿Set-MailboxFolderPermission whiteconf@cygnustechnologies.com:\calendar -user Default -AccessRights LimitedDetails
