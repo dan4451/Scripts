@@ -83,12 +83,17 @@ if ($result -eq [System.Windows.Forms.DialogResult]::OK)
     $NewName = $y
     $AdminCredential = $z
     }
-
-if(test-connection $targetpc)
-{
-    invoke-command -ComputerName $TargetPC -ScriptBlock { Rename-Computer $using:NewName -DomainCredential $using:AdminCredential }
-   start-process powershell.exe -argumentlist '-command Write-Host "Command executed successfully. Ensure the computer is restarted for name change to take effect." -ForegroundColor Yellow; start-sleep -s 10'
-}
-else{
-   start-process powershell.exe -argumentlist '-command Write-host "The target computer may be powered off or the network cable is unplugged, verify and try again." -ForegroundColor Red; start-sleep -s 10'
+$availableInAD = get-adcomputer $NewName
+try{
+    $availableInAD
+    if($availableInAD -eq $null){throw}
+        if(test-connection $targetpc)
+        {
+        invoke-command -ComputerName $TargetPC -ScriptBlock { Rename-Computer $using:NewName -DomainCredential $using:AdminCredential }
+        start-process powershell.exe -argumentlist '-command Write-Host "Command executed successfully. Ensure the computer is restarted for name change to take effect." -ForegroundColor Yellow; start-sleep -s 10'
+        }
     }
+  catch{
+        start-process powershell.exe -argumentlist '-command Write-host "The target computer may be powered off or the network cable is unplugged, or the computer name already exists in AD." -ForegroundColor Red; start-sleep -s 10'
+       }
+    
