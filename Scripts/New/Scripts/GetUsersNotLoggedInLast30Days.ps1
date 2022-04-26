@@ -1,0 +1,2 @@
+﻿$notusedsince = (get-Date).AddDays(-31)
+get-aduser -filter * -searchbase 'OU=Staff,OU=Users,OU=TriLinkSD,DC=trilinksd,DC=local' -Properties LastLogonDate | Where-Object {$_.LastLogonDate -lt $notusedsince -and $_.Enabled -eq 'True'} | Out-GridView

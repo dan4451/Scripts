@@ -1,0 +1,1 @@
+﻿Get-ADComputer -Filter * -searchbase 'OU=HR,OU=Org,OU=Computers,OU=TriLinkSD,DC=trilinksd,DC=local' | ForEach-Object {invoke-command -computer $_.Name -scriptblock { Get-LocalGroupMember -Name Administrators}}

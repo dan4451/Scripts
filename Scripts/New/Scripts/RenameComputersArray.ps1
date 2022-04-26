@@ -30,10 +30,10 @@ for($i = 0; $i -lt $computers.Length; $i++){
         if($connectionTest -eq $false){throw}
             if($userTest -eq $null){throw}
             else{
-                Write-Output "$oldcompname is online, changing name and sending a message."
+                Write-Host "$oldcompname is online, changing name and sending a message."-ForegroundColor Yellow
                 msg $userTest /server:$oldcompname /time:1200 "Your computer's name has been changed. Please complete the rename process by rebooting the computer at the earliest possible convenience. Thank you."
                 invoke-command -ComputerName $oldcompname -ScriptBlock{Rename-Computer -newname $using:newcompname -DomainCredential $using:credential}
                 }
         }
-    catch{Write-Output "$oldcompname is either offline or the user is not logged in"}
+    catch{Write-Host "$oldcompname is either offline or the user is not logged in"}
         }
