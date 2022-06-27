@@ -1,1 +1,2 @@
-﻿Start-Process powershell -Credential ad\darryl-priv -ArgumentList '-noprofile -command &{Start-Process mmc -verb runas}'
+﻿cd c:\
+Start-Process powershell -Credential 'trilinksd.local\adm.dan.francia' -ArgumentList '-noprofile -command &{Start-Process mmc.exe -verb runas}'
