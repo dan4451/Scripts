@@ -1,0 +1,10 @@
+.DS_Store
+*.pkg
+*.zip
+*.p12
+*.cer
+minimal/*
+no_customization/*
+opinionated/*
+recommended/*
+outputs/*
